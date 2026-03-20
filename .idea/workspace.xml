@@ -5,41 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a07e6859-cd4e-48e4-a58a-cc505913c01c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar4-CTS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/seminar4-CTS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/Asistent.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory/Asistent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/Brancardier.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory/Brancardier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/FactoryAsistent.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory/FactoryAsistent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/FactoryBrancardier.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory/FactoryBrancardier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/FactoryMedic.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory/FactoryMedic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/FactoryMethodPersonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory/FactoryMethodPersonal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/FactoryPersonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory/FactoryPersonal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/Medic.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory/Medic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/PersonalSpital.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory/PersonalSpital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/TipPersonalSpital.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory/TipPersonalSpital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory2/Asistent.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory2/Asistent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory2/Brancardier.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory2/Brancardier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory2/FactoryPersonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory2/FactoryPersonal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory2/FactoryPersonalMedical.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory2/FactoryPersonalMedical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory2/FactoryPersonalNonMedical.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory2/FactoryPersonalNonMedical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory2/Medic.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory2/Medic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory2/PersonalSpital.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory2/PersonalSpital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory2/Registrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory2/Registrator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory2/Secretar.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory2/Secretar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory2/TipPersonalMedical.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory2/TipPersonalMedical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory2/TipPersonalNonMedical.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory2/TipPersonalNonMedical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory2/TipPersonalSpital.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/factory2/TipPersonalSpital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/BazaDeDateEager.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/singleton/BazaDeDateEager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/BazaDeDateEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/singleton/BazaDeDateEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/BazaDeDateHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/singleton/BazaDeDateHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/BazaDeDateLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/singleton/BazaDeDateLazy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/BazaDeDateStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/singleton/BazaDeDateStatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/BazaDeDateThreadSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4/src/singleton/BazaDeDateThreadSafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../retele/compnet-live-2026/s4/1_text-proto_tcp/1c_text-proto_tcp-server_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/../retele/compnet-live-2026/s4/1_text-proto_tcp/1c_text-proto_tcp-server_template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../retele/compnet-live-2026/s4/2_binary-proto_tcp/2c_binary-proto_tcp-server_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/../retele/compnet-live-2026/s4/2_binary-proto_tcp/2c_binary-proto_tcp-server_template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../retele/compnet-live-2026/s4/3_proto_udp/3c_udp-proto_server_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/../retele/compnet-live-2026/s4/3_proto_udp/3c_udp-proto_server_template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar4/seminar4-CTS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/seminar4-CTS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tehnologii web2/NumberList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tehnologii web2/ex4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tehnologii web2/fibonacci.js" beforeDir="false" afterPath="$PROJECT_DIR$/../tehnologii web2/fibonacci.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tehnologii web2/frecventa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tehnologii web2/functii.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tehnologii web2/homework-1-2020/main/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../tehnologii web2/homework-1-2020/main/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tehnologii web2/homework-1-2020/main/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tehnologii web2/homework-1-2020/main/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tehnologii web2/seminar3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tehnologii web2/tema-1-obligatorie-att-la-termenul-limita-stefii1204/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../tehnologii web2/tema-1-obligatorie-att-la-termenul-limita-stefii1204/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tehnologii-web/WebCore/backend/.env" beforeDir="false" afterPath="$PROJECT_DIR$/../tehnologii-web/WebCore/backend/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tehnologii-web/WebCore/backend/src/config/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/../tehnologii-web/WebCore/backend/src/config/database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tehnologii-web/WebCore/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tehnologii-web/WebCore/frontend/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,12 +47,12 @@
     &quot;assignee&quot;: &quot;stefii1204&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/stefii1204/CTS_1097_SZABO_STEFANIA.git",
-    "accountId": "8a27010e-4ef7-424b-b761-c8d829bf564f"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/stefii1204/CTS_1097_SZABO_STEFANIA.git&quot;,
+    &quot;accountId&quot;: &quot;8a27010e-4ef7-424b-b761-c8d829bf564f&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -89,6 +72,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -107,6 +91,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\szabo\Documents\seminar4-CTS" />
       <recent name="C:\Users\szabo\Documents\seminar4-CTS\seminar4" />
     </key>
   </component>
@@ -130,6 +115,7 @@
       <updated>1773380354104</updated>
       <workItem from="1773380355506" duration="5539000" />
       <workItem from="1773577230025" duration="1219000" />
+      <workItem from="1773984665764" duration="715000" />
     </task>
     <servers />
   </component>
