@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../CTS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../CTS_1097_SZABO_STEFANIA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../CTS_1097_SZABO_STEFANIA/CTS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../DSAD/DSAD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../pachete/software-packages-2025" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../retele/compnet-live-2026" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii web/proiect/WebCore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii web/tehnologii-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii web/tehnologii-web/seminar5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii web/tehnologii-web/seminar6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii web/tehnologii-web/seminar8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii web2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii web2/homework-1-2020" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii web2/seminar5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii web2/seminar6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii web2/seminar8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii web2/tema-1-obligatorie-att-la-termenul-limita-stefii1204" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii web2/tema-2-javascript-avansat-stefii1204" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii web2/tema-3-restful-apis-stefii1204" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii web2/tema-4-react-si-redux-stefii1204" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii-web/WebCore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii-web/seminar5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii-web/seminar6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tehnologii-web/seminar8" vcs="Git" />
+  </component>
+</project>
